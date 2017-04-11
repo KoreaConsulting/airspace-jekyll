@@ -18,7 +18,7 @@ title: "코리아컨설팅"
 subtitle: "당신이 찾는 최고의 교육"
 url: "http://koreaconsulting.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
+baseurl: "/koreaconsulting.github.io"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
