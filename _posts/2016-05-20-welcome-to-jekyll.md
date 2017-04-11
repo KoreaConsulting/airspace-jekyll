@@ -1,26 +1,9 @@
 ---
 layout: post
-title: Welcome to jekyll!
-subtitle: Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com
+title: Q. 교육 후 교육에 대한 자료를 송부받을 수 있나요?
 date: 2016-05-20 21:11:27
-author: jekyll
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+강사님이 현장에서 강의하실때 사용했던 자료를 그대로는 드리지 못합니다만,
+기관에서 첨부하여 보관하여야 하는 자료는 저희가 따로 보내드리고 있습니다.
+강사님에게 자료요청을 하지 마시고 저희 교육원에 요청 해 주심이 감사하겠습니다.

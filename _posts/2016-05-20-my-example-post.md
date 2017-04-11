@@ -1,12 +1,9 @@
 ---
 layout: post
+title: Q. 교육 후 교육에 대한 자료를 송부받을 수 있나요?
+date: 2016-05-20 21:11:27
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
-
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
-
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+강사님이 현장에서 강의하실때 사용했던 자료를 그대로는 드리지 못합니다만,
+기관에서 첨부하여 보관하여야 하는 자료는 저희가 따로 보내드리고 있습니다.
+강사님에게 자료요청을 하지 마시고 저희 교육원에 요청 해 주심이 감사하겠습니다.
